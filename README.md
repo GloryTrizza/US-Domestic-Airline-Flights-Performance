@@ -12,9 +12,9 @@ The dashboard consists of several interactive components that allow users to exp
 A dropdown menu that allows users to select the airline they want to analyze.
 * A date picker that allows users to select a date range for the analysis.
 * Three plots that display performance metrics for the selected airline and date range:
-** On-time arrival rate
-** Flight cancellations
-** Flight delays
+- On-time arrival rate
+- Flight cancellations
+- Flight delays
 
 Users can interact with these components to explore different aspects of airline performance and gain insights into which airlines perform well and which ones do not.
 
